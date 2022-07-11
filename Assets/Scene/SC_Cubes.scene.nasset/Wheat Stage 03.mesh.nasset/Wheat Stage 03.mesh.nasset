@@ -1,0 +1,64 @@
+{
+    "guid": "8c016ade-386c-b2a1-c0ee-1fa8938aa149",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "1087027f-32fe-3778-d965-62f03e3eb9ee",
+    "children": [
+        {
+            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "instanceGuid": "d76abc74-912d-e9c6-2375-d9ca490a509b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheat Stage 03 Physics Body"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "af4e5eeb-9291-b1eb-85d2-40e77d6274ca",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wheat Stage 03 voxelAtlas D Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "7e1149cc-2ad8-0e23-96f3-59def0ac86c0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wheat Stage 03 voxelAtlas D"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "25abb2b0-1651-64d0-9787-870a462c3ace",
+                                "material_instance": "c9b99617-c1be-e022-b5b7-2f7a848b0e7e"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "25abb2b0-1651-64d0-9787-870a462c3ace"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8c016ade-386c-b2a1-c0ee-1fa8938aa149"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "guid": "ca04a6b1-e6aa-411b-bde0-291e95130522",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c3a725c2-98dc-97cf-97b7-1ff47c3f5b1e",
+    "children": [
+        {
+            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "instanceGuid": "fbdbdcea-1124-af44-f371-12ac4f950d87",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Glass Physics Body"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "4629f3f5-4303-8fc8-90f6-3677a2717fbb",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Glass voxelAtlas D Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "b3a95bf4-2dfe-6288-27b8-ddf6d70b8e08",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Glass voxelAtlas D"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f649f942-ca97-72f1-cf5b-ccbd07ff928e",
+                                "material_instance": "c9b99617-c1be-e022-b5b7-2f7a848b0e7e"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f649f942-ca97-72f1-cf5b-ccbd07ff928e"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "ca04a6b1-e6aa-411b-bde0-291e95130522"
+    }
+}

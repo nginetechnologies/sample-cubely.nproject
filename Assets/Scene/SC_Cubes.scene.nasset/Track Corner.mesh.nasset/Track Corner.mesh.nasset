@@ -1,0 +1,64 @@
+{
+    "guid": "04643a40-d7ea-de51-7b3d-7a3bc1391d75",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "25d4a27d-0104-8a11-a3ba-5af44b35d312",
+    "children": [
+        {
+            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "instanceGuid": "72959b40-acc4-2e14-5d81-81cb0c73e78b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Track Corner Physics Body"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "9c4803c6-1bf9-3445-2f7b-056db7f1587c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Track Corner voxelAtlas D Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "035643c8-9049-7a95-01c5-5ec278673bbd",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Track Corner voxelAtlas D"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7c4dde5d-a467-c0e3-5702-e5b00b40b8b2",
+                                "material_instance": "c9b99617-c1be-e022-b5b7-2f7a848b0e7e"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "7c4dde5d-a467-c0e3-5702-e5b00b40b8b2"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "04643a40-d7ea-de51-7b3d-7a3bc1391d75"
+    }
+}

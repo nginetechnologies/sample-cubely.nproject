@@ -1,0 +1,64 @@
+{
+    "guid": "8174f5e8-9e9d-4103-7ddd-77595ce93bdf",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c752b6f2-64c3-68c2-918f-5bdcea541718",
+    "children": [
+        {
+            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "instanceGuid": "56531cd7-eb00-d2e6-6ae8-4f92538e3197",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Floor Physics Body"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "1c4894d2-1315-5a73-28f6-1350e43734fc",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wood Floor Voxel D Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "b1badca2-a583-7487-ddfb-b672c40f26ec",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wood Floor Voxel D"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d83ff90b-9ccd-6517-87df-96ae28bc5ad9",
+                                "material_instance": "fdf42a07-858f-c9bd-c6e6-88471e1e30fc"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "d83ff90b-9ccd-6517-87df-96ae28bc5ad9"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8174f5e8-9e9d-4103-7ddd-77595ce93bdf"
+    }
+}
