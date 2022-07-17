@@ -1,7 +1,7 @@
 {
     "02ccb17b-fa96-1425-adc4-21219f88eb71": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Wood Pillar.mesh.nasset/Wood Pillar Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -9,7 +9,7 @@
     },
     "02dd58ad-0a0d-9684-d26c-63643b0885fc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Iron 01.mesh.nasset/Stone Iron 01 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -33,7 +33,7 @@
     },
     "0772650f-4c4e-cab2-d964-b680f74a80f4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Diamond 02.mesh.nasset/Stone Diamond 02 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -49,7 +49,7 @@
     },
     "0e31bb43-7e0e-c17d-b780-f01dc0e81707": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone.mesh.nasset/Stone voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -65,7 +65,7 @@
     },
     "0fb040f1-f6eb-681f-b329-806791cb8b54": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Track Corner No Rail.mesh.nasset/Track Corner No Rail voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -73,7 +73,7 @@
     },
     "10d07da1-75e4-0016-d9f1-e40ae73ce692": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Red Stone.mesh.nasset/Red Stone voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -89,7 +89,7 @@
     },
     "11ff7819-c827-3232-4974-8eaa1936cfac": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Water.mesh.nasset/Water Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -121,7 +121,7 @@
     },
     "16e8e393-de46-81be-5fe3-ca92ab344bdb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Grass Brown.mesh.nasset/Grass Brown voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -137,7 +137,7 @@
     },
     "1b430bb3-9337-ad7c-d498-977266168220": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/White Trunk Mid.mesh.nasset/White Trunk Mid voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -145,7 +145,7 @@
     },
     "1e14d775-018e-1ef1-51e4-b8127782b9f3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Dirt Sand.mesh.nasset/Dirt Sand voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -167,7 +167,7 @@
     },
     "212bae2a-c3b7-1c42-2758-d9afa958b255": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Rock.mesh.nasset/Rock voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -183,7 +183,7 @@
     },
     "215e1d59-3993-74c6-a285-d009c471edcd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Leaves Alpha.mesh.nasset/Leaves Alpha voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -199,7 +199,7 @@
     },
     "25abb2b0-1651-64d0-9787-870a462c3ace": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Wheat Stage 03.mesh.nasset/Wheat Stage 03 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -236,7 +236,7 @@
     },
     "297fe349-e209-7fff-bb16-9a253718be09": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Rock Moss.mesh.nasset/Rock Moss voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -261,7 +261,7 @@
     },
     "2ed76c12-9b0e-366f-a368-02f2ccfc67b3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Glass Frame.mesh.nasset/Glass Frame voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -277,7 +277,7 @@
     },
     "3711eb5a-ff96-42ac-8fe2-7081e8dc13cb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Red Stone Emerald 02.mesh.nasset/Red Stone Emerald 02 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -285,7 +285,7 @@
     },
     "37633f63-ed20-80b0-86c7-c94c195d8ed5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Grass03.mesh.nasset/Grass03 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -298,7 +298,7 @@
     },
     "393e0612-064d-2d9e-670b-bcff37c8ff7b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Wood.mesh.nasset/Wood voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -334,7 +334,7 @@
     },
     "3e996b9c-3331-b401-fe06-bc505c72e7e8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Cotton Green.mesh.nasset/Cotton Green voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -342,7 +342,7 @@
     },
     "3eeec975-c1f8-c196-b6aa-0e2d6d84109a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Cotton Red.mesh.nasset/Cotton Red voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -363,7 +363,7 @@
     },
     "40e6a207-db8c-df03-24c9-f5b795fc710d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Leaves Orange Alpha.mesh.nasset/Leaves Orange Alpha voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -379,7 +379,7 @@
     },
     "421b89e2-bc0a-6641-b380-56b7da3fe43d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Oven.mesh.nasset/Oven voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -395,7 +395,7 @@
     },
     "481cb350-e2c9-44e1-1048-0e0f8a0f780b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Dirt.mesh.nasset/Dirt voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -403,7 +403,7 @@
     },
     "483bde44-ef28-9b0f-8393-3313c3af6c79": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/White Trunk Top.mesh.nasset/White Trunk Top voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -411,7 +411,7 @@
     },
     "483c184f-087c-d221-c766-09c6de5b6e6c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Dirt Sand.mesh.nasset/Dirt Sand Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -431,7 +431,7 @@
     },
     "49861303-9f5d-a5cf-442c-9fa3fb7cebb1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Cactus Mid.mesh.nasset/Cactus Mid voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -455,7 +455,7 @@
     },
     "4c63bbea-85da-1073-a7cf-30a334f94cd8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Grey Stone.mesh.nasset/Grey Stone voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -463,7 +463,7 @@
     },
     "4e030ac2-ab45-dc4d-8007-a025d1342cf8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Leaves.mesh.nasset/Leaves voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -471,7 +471,7 @@
     },
     "4e8f5823-bd35-818a-0c6b-6d8ff048eb16": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Gravel Dirt.mesh.nasset/Gravel Dirt voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -479,7 +479,7 @@
     },
     "5140d990-3a99-7bf4-803d-e44fe8f740f2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Main.mesh.nasset",
         "thumbnail": "f486867e-c411-c908-b1f7-a679c0318b73",
         "tags": [
@@ -496,7 +496,7 @@
     },
     "53872675-a428-eba3-0950-77cd65be6735": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Diamond 01.mesh.nasset/Stone Diamond 01 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -525,7 +525,7 @@
     },
     "571fe312-b4f2-2d49-f03e-674e39fad650": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Brick Red.mesh.nasset/Brick Red voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -533,7 +533,7 @@
     },
     "58772125-dc79-4788-4089-b1b2d9941caf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Wood Red.mesh.nasset/Wood Red voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -541,7 +541,7 @@
     },
     "58ff0a16-265a-5155-43ff-b440ec75dbf5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Grass Tan.mesh.nasset/Grass Tan voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -553,7 +553,7 @@
     },
     "5b2d2653-22ce-0d0d-7dd3-78ec4c74161d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Ice.mesh.nasset/Ice voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -561,7 +561,7 @@
     },
     "5b382d29-9348-8d02-d059-e654c5d7e3b8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Red Stone Emerald 01.mesh.nasset/Red Stone Emerald 01 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -582,7 +582,7 @@
     },
     "5ceab533-8f9a-70b4-41f1-0f61490143c3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export White.mesh.nasset",
         "thumbnail": "596919b1-be59-4c3e-3c7f-9941fef6ea13",
         "tags": [
@@ -595,7 +595,7 @@
     },
     "5e9b0f6a-eb30-6f31-bf02-4da3ee66528f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Grass Top.mesh.nasset/Grass Top Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -616,7 +616,7 @@
     },
     "627cf036-1e10-0e3f-e93f-c47144b4a05e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Dirt.mesh.nasset/Stone Dirt voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -633,12 +633,11 @@
     "650a5589-13ea-4121-8405-aa1fcfcca668": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Mindkraft.scene.nasset",
-        "thumbnail": "10d99805-734b-0df1-6e6a-84199663ea75"
+        "path": "Assets/Mindkraft.scene.nasset"
     },
     "67891dc8-f821-13e4-b680-bb9755f18877": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Cotton Blue.mesh.nasset/Cotton Blue voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -662,7 +661,7 @@
     },
     "681e31ba-f53d-c36c-d957-d5ac4d6e94d4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Coal 02.mesh.nasset/Stone Coal 02 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -695,7 +694,7 @@
     },
     "6de8d1b9-97d9-6c49-b15a-de6ec6b535d3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Snow.mesh.nasset/Snow voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -723,7 +722,7 @@
     },
     "725e2ec2-fb64-e300-968d-1c282583ddd3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Stone Pillar.mesh.nasset/Stone Pillar Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -744,7 +743,7 @@
     },
     "772bbea9-3203-2e2d-2668-8f347fa042e8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Fence Stone.mesh.nasset/Fence Stone voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -760,7 +759,7 @@
     },
     "78b3b2d1-eeab-c7bc-ff57-ecd4d8a7eeb4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Grass04.mesh.nasset/Grass04 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -768,7 +767,7 @@
     },
     "7ba8bd4a-3f5f-5142-849d-e945dbeab4b6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Fence Wood.mesh.nasset/Fence Wood voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -792,7 +791,7 @@
     },
     "7c4dde5d-a467-c0e3-5702-e5b00b40b8b2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Track Corner.mesh.nasset/Track Corner voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -800,7 +799,7 @@
     },
     "7ce2163f-6edf-a4d9-7151-abd82ff5dfcd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Brown Iron 02.mesh.nasset/Stone Brown Iron 02 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -808,7 +807,7 @@
     },
     "7ce702ae-6501-54d0-abda-de27b912d773": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Dirt Grass.mesh.nasset/Dirt Grass voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -848,7 +847,7 @@
     },
     "8541fe77-32fe-2414-005c-d5da2045fdcb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Lava.mesh.nasset/Lava voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -877,7 +876,7 @@
     },
     "8b63546f-dd8d-35b5-8ea0-9de84405abf0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Leaves Orange.mesh.nasset/Leaves Orange voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -897,7 +896,7 @@
     },
     "8df6e75e-465a-4d7a-1c96-83000f861a45": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Track Straight No Rail.mesh.nasset/Track Straight No Rail voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -913,7 +912,7 @@
     },
     "8f19cd1a-cc15-60cb-d3a0-b4b84dc26753": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Mushroom Tan.mesh.nasset/Mushroom Tan voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -965,7 +964,7 @@
     },
     "952eb383-19a6-25c0-9f8b-5b77e356c689": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Grass02.mesh.nasset/Grass02 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -979,7 +978,7 @@
     },
     "9786f884-e497-3aeb-dd17-0519cb528be9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Eyes.mesh.nasset",
         "thumbnail": "91c8806d-4f25-c0ae-552b-df2c9fd9bc35",
         "tags": [
@@ -988,7 +987,7 @@
     },
     "9893bb7d-89f1-7370-de0e-817c1b3d50ff": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Snow.mesh.nasset/Stone Snow voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -996,7 +995,7 @@
     },
     "98f0562b-86fa-edab-45fe-bc007c852780": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Brick Grey.mesh.nasset/Brick Grey voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1004,7 +1003,7 @@
     },
     "9b53f4b7-10d1-7426-e56f-5ddc27eb756f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Cactus Top.mesh.nasset/Cactus Top voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1012,7 +1011,7 @@
     },
     "9be85738-c958-0a5b-9149-d28f4e092c05": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Trunk Top.mesh.nasset/Trunk Top voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1048,7 +1047,7 @@
     },
     "a742af8f-b4cf-cbab-98f3-81231527f85d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Silver 01.mesh.nasset/Stone Silver 01 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1056,7 +1055,7 @@
     },
     "a75b0350-a08c-8df3-9b30-ba6f5e1d3d77": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Dirt.mesh.nasset/Dirt Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1069,7 +1068,7 @@
     },
     "aaba27b2-1945-ebd5-48c1-13217b98f4a7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Track Straight.mesh.nasset/Track Straight voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1077,7 +1076,7 @@
     },
     "ab2c5bf4-76c0-83fe-41f5-9a789fa952e3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Grass.mesh.nasset/Stone Grass voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1101,7 +1100,7 @@
     },
     "ae349fa4-909a-a116-9623-d6f34542e478": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Wheat Stage 01.mesh.nasset/Wheat Stage 01 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1109,7 +1108,7 @@
     },
     "af405633-076f-881d-c367-da2131e6c876": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Wheat Stage 02.mesh.nasset/Wheat Stage 02 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1133,7 +1132,7 @@
     },
     "b678c38b-e6f1-d8bf-bba6-75b35fa9f30c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Stone Wall.mesh.nasset/Stone Wall Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1141,7 +1140,7 @@
     },
     "b75f4a6e-9c07-fcaa-3611-5a32ec212a34": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Coal 01.mesh.nasset/Stone Coal 01 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1157,7 +1156,7 @@
     },
     "bcb8abc4-6230-762b-a93b-a330d5a785db": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Grey Stone Ruby 02.mesh.nasset/Grey Stone Ruby 02 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1178,7 +1177,7 @@
     },
     "bf4bf915-da48-13f7-cbd7-64d9754a6531": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Dirt Grass.mesh.nasset/Dirt Grass Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1191,7 +1190,7 @@
     },
     "c16e7d19-4e44-0a4d-3ec5-e71243f79f49": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Grey Stone Ruby 01.mesh.nasset/Grey Stone Ruby 01 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1199,7 +1198,7 @@
     },
     "c2192f06-13ba-f61f-fbed-baf0733b28b9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Table.mesh.nasset/Table voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1227,7 +1226,7 @@
     },
     "c787988f-a738-a20e-6b86-37a7b3bf703b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Grey Stone Sand.mesh.nasset/Grey Stone Sand voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1255,7 +1254,7 @@
     },
     "cbbf4da3-0375-e25a-82d1-9ded6651fd6d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Red Sand.mesh.nasset/Red Sand voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1263,7 +1262,7 @@
     },
     "ce077d48-b8db-30aa-66f3-9a1f6d33fd57": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Water.mesh.nasset/Water voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1275,7 +1274,7 @@
     },
     "cf35cc4c-b6a2-67de-95c4-c5a0c2d8fecb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Trunk Mid.mesh.nasset/Trunk Mid voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1291,7 +1290,7 @@
     },
     "d0c3894a-a57e-968b-3654-316876a971de": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Brown Iron 01.mesh.nasset/Stone Brown Iron 01 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1299,7 +1298,7 @@
     },
     "d0cdb89d-676c-d6e3-7dfc-e59213fdb5d2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Grass Top.mesh.nasset/Grass Top voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1323,7 +1322,7 @@
     },
     "d20aa046-96be-b4d5-efdc-50bfeaac6667": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Stone Grass.mesh.nasset/Stone Grass Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1331,7 +1330,7 @@
     },
     "d3d94334-0109-e0f3-9419-9f2e8b9b67db": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Silver 02.mesh.nasset/Stone Silver 02 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1354,7 +1353,7 @@
     },
     "d83ff90b-9ccd-6517-87df-96ae28bc5ad9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Wood Floor.mesh.nasset/Wood Floor Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1447,7 +1446,7 @@
     },
     "e9763c94-9f66-506c-7106-78ae03bc40b8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Fence Wood.mesh.nasset/Fence Wood Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1455,7 +1454,7 @@
     },
     "e9a704fc-9dde-9762-b242-b57eeb25739c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Grass01.mesh.nasset/Grass01 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1471,7 +1470,7 @@
     },
     "eb986940-eaa7-cfe8-ed0f-fe873e0daaaf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Wheat Stage 04.mesh.nasset/Wheat Stage 04 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1490,7 +1489,7 @@
     },
     "efc10eda-589a-1978-ff4c-4ce8f569580d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Black.mesh.nasset",
         "thumbnail": "8d32b6ac-f7b7-1fb1-a1c8-9ec6e8ca07a7",
         "tags": [
@@ -1532,7 +1531,7 @@
     },
     "f51efad8-44f3-e39c-0eac-7910e3ff759a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Cotton Tan.mesh.nasset/Cotton Tan voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1556,7 +1555,7 @@
     },
     "f649f942-ca97-72f1-cf5b-ccbd07ff928e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Glass.mesh.nasset/Glass voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1564,7 +1563,7 @@
     },
     "f671a065-8c2d-f0a5-a2b5-19b18e3bc57c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Sand.mesh.nasset/Stone Sand voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1572,7 +1571,7 @@
     },
     "f6f89f20-c970-a8b8-6c0d-2b84ef4ccce9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Mushroom Red.mesh.nasset/Mushroom Red voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1580,7 +1579,7 @@
     },
     "f7170b69-fe04-61ba-7d1f-497e1810cb39": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Iron 02.mesh.nasset/Stone Iron 02 voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1596,7 +1595,7 @@
     },
     "fdcc910f-74b8-001e-b0e8-51be0a105367": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Dirt Snow.mesh.nasset/Dirt Snow voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1616,7 +1615,7 @@
     },
     "ffb00bd7-2580-e23c-7a6b-466ec7459673": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Mushroom Brown.mesh.nasset/Mushroom Brown voxelAtlas D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
