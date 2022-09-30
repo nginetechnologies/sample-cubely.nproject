@@ -1,5 +1,5 @@
 {
-    "name": "Mindkraft",
+    "name": "Cubely",
     "guid": "d4480fb6-e86c-418d-8cff-cdb679dfecc2",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
@@ -13,8 +13,8 @@
     "library_directory": "lib",
     "thumbnail_guid": "f219ecab-2683-4910-8f8e-9309bbe2eb9f",
     "default_scene": "650a5589-13ea-4121-8405-aa1fcfcca668",
-    "repository": "https://github.com/nginetechnologies/ngine-samples/raw/master/Mindkraft.nproject",
-    "source": "Mindkraft.nproject",
+    "repository": "",
+    "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
 			"type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
