@@ -6,7 +6,7 @@
     "02ccb17b-fa96-1425-adc4-21219f88eb71": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Wood Pillar.mesh.nasset/Wood Pillar Voxel D.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Wood Pillar.mesh.nasset/Wood Pillar Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -60,7 +60,7 @@
     },
     "0d3dfc91-dab3-35fb-89f0-a9f078504735": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Fence Wood.mesh.nasset/Thumbnails/Fence Wood.mesh.nasset.tex.nasset"
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Fence Wood.mesh.nasset/Thumbnails/Fence Wood.mesh.nasset.tex.nasset"
     },
     "0e31bb43-7e0e-c17d-b780-f01dc0e81707": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -107,7 +107,7 @@
     "11ff7819-c827-3232-4974-8eaa1936cfac": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Water.mesh.nasset/Water Voxel D.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Water.mesh.nasset/Water Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -150,7 +150,7 @@
     "17520e9f-2c49-baf3-243e-27e9cb2388cb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Stone Pillar.mesh.nasset/Stone Pillar.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Stone Pillar.mesh.nasset/Stone Pillar.mesh.nasset",
         "thumbnail": "bd8779bc-4cce-f502-e4ac-add5f883a18a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -174,7 +174,8 @@
     },
     "1a5664c1-2c49-f556-0aed-765666df6970": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/SC_Cubes.scene.nasset/Lava.mesh.nasset/Thumbnails/Lava.mesh.nasset.tex.nasset"
+        "path": "Assets/Scene/SC_Cubes.scene.nasset/Lava.mesh.nasset/Thumbnails/Lava.mesh.nasset.tex.nasset",
+        "thumbnail": "520aadd9-2d06-12bf-dd8f-520d92c4912e"
     },
     "1b430bb3-9337-ad7c-d498-977266168220": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -247,7 +248,7 @@
     },
     "2365864f-79d0-c488-2af3-8fd5fdadab87": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Dirt.mesh.nasset/Thumbnails/Dirt.mesh.nasset.tex.nasset"
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Dirt.mesh.nasset/Thumbnails/Dirt.mesh.nasset.tex.nasset"
     },
     "241c1b17-fd7f-20b4-d8c1-4841cbb8b08e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -350,7 +351,7 @@
     "36338c38-0db9-5c56-f288-eb482ab78d82": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Stone Grass.mesh.nasset/Stone Grass.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Stone Grass.mesh.nasset/Stone Grass.mesh.nasset",
         "thumbnail": "d6e2c450-8fa3-ec7c-097b-1b16e9caaac0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -422,7 +423,7 @@
     "3d9bad65-c402-057c-94e7-cb605323ba97": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Dirt Sand.mesh.nasset/Dirt Sand.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Dirt Sand.mesh.nasset/Dirt Sand.mesh.nasset",
         "thumbnail": "8da1cf2f-6102-c396-328a-c5e885c638e7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -519,7 +520,7 @@
     "483c184f-087c-d221-c766-09c6de5b6e6c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Dirt Sand.mesh.nasset/Dirt Sand Voxel D.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Dirt Sand.mesh.nasset/Dirt Sand Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -565,7 +566,7 @@
     "4be2cdb6-5d9a-9b51-ef04-8b023a9140f6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Wood Pillar.mesh.nasset/Wood Pillar.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Wood Pillar.mesh.nasset/Wood Pillar.mesh.nasset",
         "thumbnail": "64ca7c6f-5d65-e418-7ce8-ea9c09437447",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -605,7 +606,7 @@
     },
     "50e3245c-88b2-ecb9-5233-cb7202cc0e41": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Wood Floor.mesh.nasset/Thumbnails/Wood Floor.mesh.nasset.tex.nasset"
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Wood Floor.mesh.nasset/Thumbnails/Wood Floor.mesh.nasset.tex.nasset"
     },
     "5140d990-3a99-7bf4-803d-e44fe8f740f2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -619,7 +620,7 @@
     "5340536d-6221-3707-7ed2-6362cae3d376": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Grass Top.mesh.nasset/Grass Top.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Grass Top.mesh.nasset/Grass Top.mesh.nasset",
         "thumbnail": "70de7ba3-7636-568d-c94b-d902cc693b78",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -657,7 +658,7 @@
     "55002a5a-0b60-6cc7-e0a9-a903ddfa71e1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Fence Wood.mesh.nasset/Fence Wood.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Fence Wood.mesh.nasset/Fence Wood.mesh.nasset",
         "thumbnail": "0d3dfc91-dab3-35fb-89f0-a9f078504735",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -746,7 +747,7 @@
     "5e9b0f6a-eb30-6f31-bf02-4da3ee66528f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Grass Top.mesh.nasset/Grass Top Voxel D.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Grass Top.mesh.nasset/Grass Top Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -780,7 +781,7 @@
     "62c55ac6-1b7b-0dea-e01d-2afcf82ca05d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Stone Wall.mesh.nasset/Stone Wall.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Stone Wall.mesh.nasset/Stone Wall.mesh.nasset",
         "thumbnail": "b4cbadc3-f334-0db8-7c5d-80ce0f0b5925",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -796,12 +797,12 @@
     },
     "64ca7c6f-5d65-e418-7ce8-ea9c09437447": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Wood Pillar.mesh.nasset/Thumbnails/Wood Pillar.mesh.nasset.tex.nasset"
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Wood Pillar.mesh.nasset/Thumbnails/Wood Pillar.mesh.nasset.tex.nasset"
     },
     "650a5589-13ea-4121-8405-aa1fcfcca668": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Mindkraft.scene.nasset"
+        "path": "Assets/Cubely.scene.nasset"
     },
     "66e72d3c-bdd3-70aa-9cdf-62ea26b591e9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -912,12 +913,12 @@
     },
     "70de7ba3-7636-568d-c94b-d902cc693b78": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Grass Top.mesh.nasset/Thumbnails/Grass Top.mesh.nasset.tex.nasset"
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Grass Top.mesh.nasset/Thumbnails/Grass Top.mesh.nasset.tex.nasset"
     },
     "725e2ec2-fb64-e300-968d-1c282583ddd3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Stone Pillar.mesh.nasset/Stone Pillar Voxel D.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Stone Pillar.mesh.nasset/Stone Pillar Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -930,6 +931,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "7485d81a-a19f-b56e-2c21-ebb1be2aeafd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/voxelAtlas D.mtli.nasset.tex.nasset"
     },
     "74b77f3b-2bba-eb52-d7a8-713086245d92": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -972,6 +977,10 @@
     "78e7fca3-60b3-58be-409e-3427e7af7299": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/White Trunk Top.mesh.nasset/Thumbnails/White Trunk Top.mesh.nasset.tex.nasset"
+    },
+    "7a1ef47a-e374-90c2-e1ca-a288bca80a61": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Voxel D.mtli.nasset.tex.nasset"
     },
     "7abd3bc3-4f3d-427e-9067-8a66a773563e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1056,7 +1065,7 @@
     "8174f5e8-9e9d-4103-7ddd-77595ce93bdf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Wood Floor.mesh.nasset/Wood Floor.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Wood Floor.mesh.nasset/Wood Floor.mesh.nasset",
         "thumbnail": "50e3245c-88b2-ecb9-5233-cb7202cc0e41",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1103,7 +1112,8 @@
     "8b4718ef-c922-b72d-ca97-0a72a0c7fd8a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/SC_Mindkraft.scene.nasset"
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/SC_Cubely.scene.nasset",
+        "thumbnail": "f9aaa1f1-755b-9ad4-8245-41823fc4fc7f"
     },
     "8b63546f-dd8d-35b5-8ea0-9de84405abf0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1132,7 +1142,7 @@
     },
     "8da1cf2f-6102-c396-328a-c5e885c638e7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Dirt Sand.mesh.nasset/Thumbnails/Dirt Sand.mesh.nasset.tex.nasset"
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Dirt Sand.mesh.nasset/Thumbnails/Dirt Sand.mesh.nasset.tex.nasset"
     },
     "8df6e75e-465a-4d7a-1c96-83000f861a45": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1183,7 +1193,7 @@
     "93834176-2a8a-4953-e6a0-fe91236fa3d7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Dirt.mesh.nasset/Dirt.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Dirt.mesh.nasset/Dirt.mesh.nasset",
         "thumbnail": "2365864f-79d0-c488-2af3-8fd5fdadab87",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1337,7 +1347,7 @@
     "a75b0350-a08c-8df3-9b30-ba6f5e1d3d77": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Dirt.mesh.nasset/Dirt Voxel D.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Dirt.mesh.nasset/Dirt Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -1428,7 +1438,7 @@
     },
     "b4cbadc3-f334-0db8-7c5d-80ce0f0b5925": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Stone Wall.mesh.nasset/Thumbnails/Stone Wall.mesh.nasset.tex.nasset"
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Stone Wall.mesh.nasset/Thumbnails/Stone Wall.mesh.nasset.tex.nasset"
     },
     "b60be622-aafa-88f9-525b-c703582f1e99": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1442,7 +1452,7 @@
     "b678c38b-e6f1-d8bf-bba6-75b35fa9f30c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Stone Wall.mesh.nasset/Stone Wall Voxel D.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Stone Wall.mesh.nasset/Stone Wall Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -1487,7 +1497,7 @@
     },
     "bd8779bc-4cce-f502-e4ac-add5f883a18a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Stone Pillar.mesh.nasset/Thumbnails/Stone Pillar.mesh.nasset.tex.nasset"
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Stone Pillar.mesh.nasset/Thumbnails/Stone Pillar.mesh.nasset.tex.nasset"
     },
     "bf398937-3c73-7ab9-03eb-977fd9babc13": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1501,7 +1511,7 @@
     "bf4bf915-da48-13f7-cbd7-64d9754a6531": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Dirt Grass.mesh.nasset/Dirt Grass Voxel D.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Dirt Grass.mesh.nasset/Dirt Grass Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -1576,7 +1586,8 @@
     },
     "c9b99617-c1be-e022-b5b7-2f7a848b0e7e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/voxelAtlas D.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/voxelAtlas D.mtli.nasset",
+        "thumbnail": "7485d81a-a19f-b56e-2c21-ebb1be2aeafd"
     },
     "ca04a6b1-e6aa-411b-bde0-291e95130522": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1669,7 +1680,7 @@
     "d20aa046-96be-b4d5-efdc-50bfeaac6667": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Stone Grass.mesh.nasset/Stone Grass Voxel D.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Stone Grass.mesh.nasset/Stone Grass Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -1707,12 +1718,12 @@
     },
     "d6e2c450-8fa3-ec7c-097b-1b16e9caaac0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Stone Grass.mesh.nasset/Thumbnails/Stone Grass.mesh.nasset.tex.nasset"
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Stone Grass.mesh.nasset/Thumbnails/Stone Grass.mesh.nasset.tex.nasset"
     },
     "d83ff90b-9ccd-6517-87df-96ae28bc5ad9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Wood Floor.mesh.nasset/Wood Floor Voxel D.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Wood Floor.mesh.nasset/Wood Floor Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -1815,7 +1826,7 @@
     "e5c9923b-27a9-2805-9494-b087950635bd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Water.mesh.nasset/Water.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Water.mesh.nasset/Water.mesh.nasset",
         "thumbnail": "f6b6ef49-3903-5734-59b9-1765a4b3be63",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1842,7 +1853,7 @@
     "e9763c94-9f66-506c-7106-78ae03bc40b8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Fence Wood.mesh.nasset/Fence Wood Voxel D.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Fence Wood.mesh.nasset/Fence Wood Voxel D.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -1858,7 +1869,7 @@
     "ea6c73ae-937a-2185-3cd9-2c928b3c06ff": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Dirt Grass.mesh.nasset/Dirt Grass.mesh.nasset",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Dirt Grass.mesh.nasset/Dirt Grass.mesh.nasset",
         "thumbnail": "ef591ac0-3e2d-2f09-65d7-11c9a70bb4f1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1889,7 +1900,7 @@
     },
     "ef591ac0-3e2d-2f09-65d7-11c9a70bb4f1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Dirt Grass.mesh.nasset/Thumbnails/Dirt Grass.mesh.nasset.tex.nasset"
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Dirt Grass.mesh.nasset/Thumbnails/Dirt Grass.mesh.nasset.tex.nasset"
     },
     "efc10eda-589a-1978-ff4c-4ce8f569580d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1933,8 +1944,7 @@
     },
     "f219ecab-2683-4910-8f8e-9309bbe2eb9f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Mindkraft_Thumb.tex.nasset"
+        "path": "Assets/Thumbnail/Cubely_Thumb.tex.nasset"
     },
     "f2d51e44-7ce9-a1e4-ff0a-e6197725652e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1988,7 +1998,7 @@
     },
     "f6b6ef49-3903-5734-59b9-1765a4b3be63": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/SC_Mindkraft.scene.nasset/Water.mesh.nasset/Thumbnails/Water.mesh.nasset.tex.nasset"
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Water.mesh.nasset/Thumbnails/Water.mesh.nasset.tex.nasset"
     },
     "f6f89f20-c970-a8b8-6c0d-2b84ef4ccce9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2013,6 +2023,10 @@
     "f9215b4b-d1c7-ed73-cbf5-21f2d7ecc677": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Cotton Blue.mesh.nasset/Thumbnails/Cotton Blue.mesh.nasset.tex.nasset"
+    },
+    "f9aaa1f1-755b-9ad4-8245-41823fc4fc7f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Cubely.scene.nasset/Thumbnails/SC_Mindkraft.scene.nasset.tex.nasset"
     },
     "fa6058a6-2629-21a5-fda0-be8036f86510": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2042,7 +2056,8 @@
     },
     "fdf42a07-858f-c9bd-c6e6-88471e1e30fc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Voxel D.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Voxel D.mtli.nasset",
+        "thumbnail": "7a1ef47a-e374-90c2-e1ca-a288bca80a61"
     },
     "ffb00bd7-2580-e23c-7a6b-466ec7459673": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
