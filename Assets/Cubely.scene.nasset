@@ -28790,7 +28790,7 @@
             "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
                 "color": "#fdfdfd00",
                 "cascades": 4,
-                "intensity": 1.0,
+                "intensity": 10.0,
                 "cascade_distances": [
                     6.0,
                     12.0,
@@ -28865,7 +28865,7 @@
             "instanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "scale": [
-                    5.0
+                    100.0
                 ]
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
