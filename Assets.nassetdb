@@ -19,6 +19,11 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "03e46a8e-233b-a2df-000e-3fd77f3fcd8c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Danny/SK_Danny.scene.nasset/SK_Danny.scene.nasset"
+    },
     "04643a40-d7ea-de51-7b3d-7a3bc1391d75": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -27,6 +32,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "04923f94-6d3d-a296-66e1-c36f6eb6ca70": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Danny/Material Instances/Danny.mtli.nasset"
     },
     "06002dc1-4089-087c-5174-f300ee2354af": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -202,12 +211,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "205c8c2a-6c0e-61a0-24e0-de2c1f4b463b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export.mesh.nasset",
-        "thumbnail": "cf02d391-017c-4d56-0709-f7cae8b6bebd"
-    },
     "20e4351e-8c86-3b24-9408-abba61faa572": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Grass.mesh.nasset/Thumbnails/Stone Grass.mesh.nasset.tex.nasset"
@@ -254,6 +257,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Red Stone.mesh.nasset/Thumbnails/Red Stone.mesh.nasset.tex.nasset"
     },
+    "24dcf608-bd37-bd03-566c-73f765076704": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Danny/Textures/T_Player_D.tex.nasset"
+    },
     "25170289-7ffd-ca7a-ad4c-e1b5a7f531ac": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Silver 01.mesh.nasset/Thumbnails/Stone Silver 01.mesh.nasset.tex.nasset"
@@ -265,11 +272,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "25cf799a-060f-4dcf-8993-c95c01cf5735": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Jump_Loop.anim.nasset"
     },
     "28179253-96d5-e00d-686f-ea5a6752a3ae": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -315,15 +317,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "2bdf59e1-ce0f-b03f-dbf2-17b0a0d09932": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Robot/Material Instances/Thumbnails/Eyes.mtli.nasset.tex.nasset"
-    },
-    "2c517e35-ff2d-cf59-a08b-cb0b05196c8b": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Main.meshskin.nasset"
-    },
     "2d86d735-58f3-6b72-0a51-da194bd2deb2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Diamond 02.mesh.nasset/Thumbnails/Stone Diamond 02.mesh.nasset.tex.nasset"
@@ -339,6 +332,11 @@
     "2f5c29a2-6b45-6deb-f506-a4ea45081019": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Cactus Top.mesh.nasset/Thumbnails/Cactus Top.mesh.nasset.tex.nasset"
+    },
+    "2f7463ff-ce46-e370-d3cb-e08821bbd775": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/SK Danny Danny.meshskin.nasset"
     },
     "30bfbd1c-ac45-f95f-8968-20da6baf6c8f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -372,11 +370,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "38253007-2fdb-265f-d6aa-62bd39aa4890": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export White.meshskin.nasset"
     },
     "38e411a5-a29c-491f-c10b-74da193f7b02": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -429,6 +422,11 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Danny/Walk.anim.nasset"
+    },
     "3e996b9c-3331-b401-fe06-bc505c72e7e8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -457,11 +455,6 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
-    },
-    "3f6e52d4-b050-345f-6d94-8ccd8540e7d1": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Black.meshskin.nasset"
     },
     "40e6a207-db8c-df03-24c9-f5b795fc710d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -608,15 +601,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubely.scene.nasset/Wood Floor.mesh.nasset/Thumbnails/Wood Floor.mesh.nasset.tex.nasset"
     },
-    "5140d990-3a99-7bf4-803d-e44fe8f740f2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Main.mesh.nasset",
-        "thumbnail": "f486867e-c411-c908-b1f7-a679c0318b73",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
     "5340536d-6221-3707-7ed2-6362cae3d376": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -697,10 +681,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "596919b1-be59-4c3e-3c7f-9941fef6ea13": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export White.mesh.nasset.tex.nasset"
-    },
     "5b2d2653-22ce-0d0d-7dd3-78ec4c74161d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -717,11 +697,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "5b7ca89c-fffc-d329-098a-56dc39bff06a": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Robot/Material Instances/White.mtli.nasset",
-        "thumbnail": "88e16ff9-a2da-e38a-5bba-d8d7412fb19f"
-    },
     "5b82c764-1298-57b8-0781-441847a3a7e6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -731,19 +706,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "5ceab533-8f9a-70b4-41f1-0f61490143c3": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export White.mesh.nasset",
-        "thumbnail": "596919b1-be59-4c3e-3c7f-9941fef6ea13",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "5df5f53e-5b27-b560-26f6-e8895a68bb4d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Robot/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
-    },
     "5e9b0f6a-eb30-6f31-bf02-4da3ee66528f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -751,11 +713,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "5ef10529-012b-4f65-895f-e0e4c0fbce78": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Idle.anim.nasset"
     },
     "60c79601-9f5e-f988-8177-f87ff46d8255": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -765,6 +722,11 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "60f04952-be96-4d54-b86c-438a71cf97a9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Danny/Jump_Start.anim.nasset"
     },
     "6233d137-cd4e-b492-22fd-781a8ba0417f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -842,10 +804,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "68bc643b-c597-16f1-ef1d-18806bf52c11": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Robot/Material Instances/Thumbnails/Main.mtli.nasset.tex.nasset"
-    },
     "69a70a91-c24a-d531-ec26-c2c59c50c122": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -875,11 +833,6 @@
     "6c901731-7445-3424-71af-b802614c01e8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Track Straight.mesh.nasset/Thumbnails/Track Straight.mesh.nasset.tex.nasset"
-    },
-    "6d0ab017-8399-4b5c-978e-99e5d0f1b248": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Jump_Start.anim.nasset"
     },
     "6de8d1b9-97d9-6c49-b15a-de6ec6b535d3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -915,6 +868,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubely.scene.nasset/Grass Top.mesh.nasset/Thumbnails/Grass Top.mesh.nasset.tex.nasset"
     },
+    "724f1717-733a-1e08-7254-9dc8e6a47d09": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/SK Danny Danny.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "725e2ec2-fb64-e300-968d-1c282583ddd3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -939,11 +900,6 @@
     "74b77f3b-2bba-eb52-d7a8-713086245d92": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Brick Red.mesh.nasset/Thumbnails/Brick Red.mesh.nasset.tex.nasset"
-    },
-    "75ef0394-5757-6e92-a020-e2359d96a21d": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Robot/Material Instances/Main.mtli.nasset",
-        "thumbnail": "68bc643b-c597-16f1-ef1d-18806bf52c11"
     },
     "77030a52-b2d3-b6b4-b97e-b63556b254e6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1101,14 +1057,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "88e16ff9-a2da-e38a-5bba-d8d7412fb19f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Robot/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
-    },
-    "8a151491-9d08-7fe5-900e-85aeb7cae92e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/Thumbnails/SK_Robot.scene.nasset.tex.nasset"
-    },
     "8b4718ef-c922-b72d-ca97-0a72a0c7fd8a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1136,9 +1084,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Mushroom Tan.mesh.nasset/Thumbnails/Mushroom Tan.mesh.nasset.tex.nasset"
     },
-    "8d32b6ac-f7b7-1fb1-a1c8-9ec6e8ca07a7": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export Black.mesh.nasset.tex.nasset"
+    "8cf201d8-f8fb-48c8-983f-5a21b94808a9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Danny/Run.anim.nasset"
     },
     "8da1cf2f-6102-c396-328a-c5e885c638e7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1151,6 +1100,11 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "8e0af0cf-e8a0-4822-8d5b-e71862770e2f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Danny/Jump_Loop.anim.nasset"
     },
     "8e1c55a3-416d-ecd5-b201-4d353f1d2741": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1185,10 +1139,6 @@
     "91787aff-53af-5960-e165-a2c8151bcc4a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Coal 01.mesh.nasset/Thumbnails/Stone Coal 01.mesh.nasset.tex.nasset"
-    },
-    "91c8806d-4f25-c0ae-552b-df2c9fd9bc35": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export Eyes.mesh.nasset.tex.nasset"
     },
     "93834176-2a8a-4953-e6a0-fe91236fa3d7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1242,20 +1192,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Ice.mesh.nasset/Thumbnails/Ice.mesh.nasset.tex.nasset"
     },
-    "96059680-8978-22da-8061-2927bed28cb4": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK_Robot.scene.nasset",
-        "thumbnail": "8a151491-9d08-7fe5-900e-85aeb7cae92e"
-    },
-    "9786f884-e497-3aeb-dd17-0519cb528be9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Eyes.mesh.nasset",
-        "thumbnail": "91c8806d-4f25-c0ae-552b-df2c9fd9bc35",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
+    "96e52271-e359-4ec0-a4ab-507d54315cb7": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Danny/Jump_End.anim.nasset"
     },
     "9893bb7d-89f1-7370-de0e-817c1b3d50ff": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1352,10 +1292,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "a8146617-705b-45d8-8081-2fec12d073ef": {
+    "a9f3884c-3026-4742-a788-9c1c91625bd8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Run.anim.nasset"
+        "path": "Assets/Danny/Idle.anim.nasset"
     },
     "aaba27b2-1945-ebd5-48c1-13217b98f4a7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1465,6 +1405,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/SK Danny.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "b908a9ea-2f05-d2da-b21a-f727950b398c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Iron 02.mesh.nasset/Thumbnails/Stone Iron 02.mesh.nasset.tex.nasset"
@@ -1490,11 +1438,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "bcf8697c-df8a-f525-3eba-f7cade33b4b1": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Eyes.meshskin.nasset"
-    },
     "bd8779bc-4cce-f502-e4ac-add5f883a18a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubely.scene.nasset/Stone Pillar.mesh.nasset/Thumbnails/Stone Pillar.mesh.nasset.tex.nasset"
@@ -1515,11 +1458,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "c129b110-8096-7499-6669-23a7e1bb0c82": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "c16e7d19-4e44-0a4d-3ec5-e71243f79f49": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1557,6 +1495,11 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "c5986709-995d-21bc-9105-31d5f70eabe9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1621,10 +1564,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "cf02d391-017c-4d56-0709-f7cae8b6bebd": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export.mesh.nasset.tex.nasset"
     },
     "cf35cc4c-b6a2-67de-95c4-c5a0c2d8fecb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1701,16 +1640,6 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "thumbnail": "f219ecab-2683-4910-8f8e-9309bbe2eb9f"
-    },
-    "d553038a-3287-4d7a-8c5c-9d5b349af7b6": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Jump_End.anim.nasset"
-    },
-    "d63060d1-1723-b34e-aa10-7d8aef284fbe": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Robot/Material Instances/Black.mtli.nasset",
-        "thumbnail": "5df5f53e-5b27-b560-26f6-e8895a68bb4d"
     },
     "d6a6557c-edc5-6ff9-e5ac-3726fee1d551": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1832,11 +1761,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "e78262a2-99d6-4383-b4a8-b8839bc12f2e": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Walk.anim.nasset"
-    },
     "e81c131f-be5a-2488-d1d0-1d3f394e4229": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1893,23 +1817,9 @@
         "path": "Assets/Player/Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
-    "ed607c07-e87b-b9c3-ddc8-745e45585d9d": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Robot/Material Instances/Eyes.mtli.nasset",
-        "thumbnail": "2bdf59e1-ce0f-b03f-dbf2-17b0a0d09932"
-    },
     "ef591ac0-3e2d-2f09-65d7-11c9a70bb4f1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubely.scene.nasset/Dirt Grass.mesh.nasset/Thumbnails/Dirt Grass.mesh.nasset.tex.nasset"
-    },
-    "efc10eda-589a-1978-ff4c-4ce8f569580d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Black.mesh.nasset",
-        "thumbnail": "8d32b6ac-f7b7-1fb1-a1c8-9ec6e8ca07a7",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
     },
     "f0e8c068-6994-96b9-74d5-8cf0975c66ff": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1949,10 +1859,6 @@
     "f2d51e44-7ce9-a1e4-ff0a-e6197725652e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Stone Brown Iron 01.mesh.nasset/Thumbnails/Stone Brown Iron 01.mesh.nasset.tex.nasset"
-    },
-    "f486867e-c411-c908-b1f7-a679c0318b73": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export Main.mesh.nasset.tex.nasset"
     },
     "f51efad8-44f3-e39c-0eac-7910e3ff759a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
