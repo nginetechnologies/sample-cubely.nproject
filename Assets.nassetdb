@@ -1,5 +1,9 @@
 {
     "guid": "7d69522d-d7d3-4f18-8f7e-71e08bb834c4",
+    "7d69522d-d7d3-4f18-8f7e-71e08bb834c4": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
     "0085ab06-026e-04e0-be61-f87b715ff7ef": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Cubes.scene.nasset/Grass Tan.mesh.nasset/Thumbnails/Grass Tan.mesh.nasset.tex.nasset"
