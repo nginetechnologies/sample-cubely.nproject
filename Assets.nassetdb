@@ -1,32 +1,4 @@
 {
-    "03e46a8e-233b-a2df-000e-3fd77f3fcd8c": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Danny/SK_Danny.scene.nasset/SK_Danny.scene.nasset"
-    },
-    "04923f94-6d3d-a296-66e1-c36f6eb6ca70": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Danny/Material Instances/Danny.mtli.nasset"
-    },
-    "24dcf608-bd37-bd03-566c-73f765076704": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Danny/Textures/T_Player_D.tex.nasset"
-    },
-    "2f7463ff-ce46-e370-d3cb-e08821bbd775": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/SK Danny Danny.meshskin.nasset"
-    },
-    "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Danny/Walk.anim.nasset"
-    },
-    "60f04952-be96-4d54-b86c-438a71cf97a9": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Danny/Jump_Start.anim.nasset"
-    },
     "650a5589-13ea-4121-8405-aa1fcfcca668": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
@@ -36,69 +8,32 @@
         "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
         "path": "Assets/Physical Materials/Box.physmat.nasset"
     },
-    "724f1717-733a-1e08-7254-9dc8e6a47d09": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/SK Danny Danny.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
     "7d69522d-d7d3-4f18-8f7e-71e08bb834c4": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
-    },
-    "8cf201d8-f8fb-48c8-983f-5a21b94808a9": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Danny/Run.anim.nasset"
-    },
-    "8e0af0cf-e8a0-4822-8d5b-e71862770e2f": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Danny/Jump_Loop.anim.nasset"
-    },
-    "96e52271-e359-4ec0-a4ab-507d54315cb7": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Danny/Jump_End.anim.nasset"
-    },
-    "a9f3884c-3026-4742-a788-9c1c91625bd8": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Danny/Idle.anim.nasset"
-    },
-    "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/SK Danny.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "d4480fb6-e86c-418d-8cff-cdb679dfecc2": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "thumbnail": "f219ecab-2683-4910-8f8e-9309bbe2eb9f"
     },
-    "e95160b5-9f01-a360-4319-88759e54333f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
-    },
-    "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Player/Player.scene.nasset",
-        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
-    },
-    "f219ecab-2683-4910-8f8e-9309bbe2eb9f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Cubely_Thumb.tex.nasset"
-    },
-    "guid": "342b546e-2f48-6bab-fcba-e9ce41836385"
+    "guid": "342b546e-2f48-6bab-fcba-e9ce41836385",
+    "imported_assets": [
+        "03e46a8e-233b-a2df-000e-3fd77f3fcd8c",
+        "04923f94-6d3d-a296-66e1-c36f6eb6ca70",
+        "24dcf608-bd37-bd03-566c-73f765076704",
+        "2f7463ff-ce46-e370-d3cb-e08821bbd775",
+        "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae",
+        "60f04952-be96-4d54-b86c-438a71cf97a9",
+        "724f1717-733a-1e08-7254-9dc8e6a47d09",
+        "8cf201d8-f8fb-48c8-983f-5a21b94808a9",
+        "8e0af0cf-e8a0-4822-8d5b-e71862770e2f",
+        "96e52271-e359-4ec0-a4ab-507d54315cb7",
+        "a9f3884c-3026-4742-a788-9c1c91625bd8",
+        "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786",
+        "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959",
+        "e95160b5-9f01-a360-4319-88759e54333f",
+        "ec66ce19-1e67-478b-a8e6-07b9cf74df4c",
+        "f219ecab-2683-4910-8f8e-9309bbe2eb9f"
+    ]
 }
