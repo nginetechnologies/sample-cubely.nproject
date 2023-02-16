@@ -8,25 +8,14 @@
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
     },
-    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
-        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
-        "path": "Assets/Physical Materials/Box.physmat.nasset"
-    },
     "d4480fb6-e86c-418d-8cff-cdb679dfecc2": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "thumbnail": "f219ecab-2683-4910-8f8e-9309bbe2eb9f"
     },
-    "f219ecab-2683-4910-8f8e-9309bbe2eb9f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Cubely_Thumb.tex.nasset"
-    },
     "guid": "6cb68968-5581-78ae-6835-4e4eca21e2aa",
     "imported_assets": [
         "000e4c15-67bc-31c3-973f-f616a82e8a2f",
-        "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b",
-        "3ab745aa-6a7d-608d-321a-60e00705f78f",
-        "d9fa4ff1-8968-23db-8e67-77642cb4d88e",
         "0060e8e8-fac5-0b69-2fc9-788e3532fb9d",
         "016be327-3290-2c5c-4ebf-ed4d096ccbca",
         "02951163-d896-527e-a4f3-1af925f1279f",
@@ -70,6 +59,7 @@
         "36f72006-849f-a4af-a025-4cebd740f5c5",
         "397ac994-b140-989f-85a9-72a2194c493e",
         "39e798a6-1194-84d8-de73-1a18c4494fad",
+        "3ab745aa-6a7d-608d-321a-60e00705f78f",
         "3b796464-cbbf-6070-3a36-460a35046c73",
         "3d678427-de56-f220-8d0d-7b330c1ec39a",
         "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae",
@@ -95,6 +85,7 @@
         "536f33e7-70bf-52c3-c898-b68ae3507c23",
         "56120649-ea62-6fc8-6b89-bbadb1342044",
         "57119a2a-83fb-6d02-901a-ecac4a230254",
+        "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b",
         "5c4b81a9-b2b8-4228-4059-5b41236696fa",
         "5c601ccc-60f7-3b4c-3c48-8e2b5e68705d",
         "5d44b897-b433-4d5d-ecce-dd130bc29cf2",
@@ -111,6 +102,7 @@
         "69700217-eab3-ab32-a2b2-4e869755779e",
         "6a016a00-dbe3-4fbb-8667-b43fea2fdc0d",
         "6e9468a2-f4e4-b402-cb42-1c26b18984f5",
+        "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76",
         "711ce71e-435b-e430-5306-d32aa5665643",
         "7168f5b7-ba16-91ca-9db8-753d0ea36cbb",
         "724f1717-733a-1e08-7254-9dc8e6a47d09",
@@ -184,6 +176,7 @@
         "d4cf4765-e7ac-9bb7-12bb-ec2a64e0a5e4",
         "d5cc8aa0-c245-209e-7eac-8e98e7031048",
         "d6705419-083c-3630-0bd8-fab2b23e4181",
+        "d9fa4ff1-8968-23db-8e67-77642cb4d88e",
         "e0db857e-0602-3997-9f7b-0117185bed33",
         "e0f54663-1906-a445-f971-fd0d84e6f94e",
         "e2cd5ebe-f745-0f92-2289-c65c8fd8486a",
