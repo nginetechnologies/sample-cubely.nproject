@@ -11,7 +11,11 @@
     "d4480fb6-e86c-418d-8cff-cdb679dfecc2": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "thumbnail": "f219ecab-2683-4910-8f8e-9309bbe2eb9f"
+        "name": "Cubely",
+        "thumbnail": "f219ecab-2683-4910-8f8e-9309bbe2eb9f",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
     },
     "guid": "6cb68968-5581-78ae-6835-4e4eca21e2aa",
     "imported_assets": [
