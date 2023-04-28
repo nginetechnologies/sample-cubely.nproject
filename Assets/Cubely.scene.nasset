@@ -25018,6 +25018,7 @@
                 "prefiltered": "3ab745aa-6a7d-608d-321a-60e00705f78f"
             },
             "data_components": [
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Environment Light"
                 },
